@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\hanna\\Documents\\Unreal Projects\\cpp_start_tut\\Source\\cpp_start_tut\\cpp_start_tut.Build.cs",
+		"C:\\Users\\hanna\\Documents\\Unreal Projects\\cpp_start_tut\\Source\\cpp_start_tut.Target.cs",
+		"C:\\Users\\hanna\\Documents\\Unreal Projects\\cpp_start_tut\\Source\\cpp_start_tutEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}
